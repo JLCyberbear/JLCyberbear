@@ -5,14 +5,11 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Algorithm Concepts](https://github.com/JLCyberbear/Algorithms-Concepts)
 
-- <b>Python</b>
-  - 
-
 <h2>🕸️ Network Development Projects:</h2>
-<h3>-Cisco Certified Network Administrator</h3>
-
-<h3>-Checkpoint Certified Security Administrator</h3>
-
+<ul>
+  <li>-Cisco Certified Network Administrator</li>
+  <li>-Checkpoint Certified Security Administrator</li>
+</ul>ul>
 
 <h2> 🤳 Connect with me:</h2>
 
