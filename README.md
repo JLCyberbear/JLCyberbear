@@ -5,9 +5,8 @@
 <h2>📖 Network Development Concepts:</h2>
 
 <h1> Practice <h1/>
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  <h2>👨‍💻 Software Development Projects:</h2>
+  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Algorithm Concepts](https://github.com/JLCyberbear/Algorithms-Concepts)
 
 <h2>🕸️ Network Development Projects:</h2>
