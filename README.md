@@ -13,7 +13,7 @@
 <ul>
   <li>Cisco Certified Network Administrator</li>
   <li>Checkpoint Certified Security Administrator</li>
-</ul>ul>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
