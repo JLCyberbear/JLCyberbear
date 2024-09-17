@@ -8,6 +8,9 @@
 - <b>Python</b>
   - 
 
+<h2>🕸️ Network Development Projects:</h2>
+- <b>Cisco Certified Network Administrator</b>
+- <b>Checkpoint Certified Security Administrator</b>
 
 
 <h2> 🤳 Connect with me:</h2>
