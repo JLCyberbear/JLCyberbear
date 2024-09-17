@@ -9,8 +9,8 @@
   - 
 
 <h2>🕸️ Network Development Projects:</h2>
-- <b>Cisco Certified Network Administrator</b>
-- <b>Checkpoint Certified Security Administrator</b>
+- <h3>Cisco Certified Network Administrator</h3>
+- <h13>Checkpoint Certified Security Administrator</h3>
 
 
 <h2> 🤳 Connect with me:</h2>
