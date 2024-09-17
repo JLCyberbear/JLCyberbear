@@ -1,5 +1,10 @@
 <h1>Hi, I'm Jose! <br/><a href="https://github.com/JLCyberbear">Programmer</a>, <a href="https://www.linkedin.com/in/joselrico/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@JRCybertek">YouTuber</a></h1>
 
+<h1> Learn </h1>
+<h2>🧾 Software Development Concepts:</h2>
+<h2>📖 Network Development Concepts:</h2>
+
+<h1> Practice <h1/>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
