@@ -17,7 +17,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384028.png" />][youtube]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/15707/15707776.png" />][instagram]
 
