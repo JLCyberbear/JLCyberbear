@@ -2,9 +2,11 @@
   <a href="https://www.linkedin.com/in/joselrico/">Cybersecurity Professional</a>, 
   <a href="https://www.youtube.com/@JRCybertek">YouTuber</a></h1>
 
-<h1> Learn </h1>
-<h2>🧾 Software Development Concepts:</h2>
-<h2>📖 Network Development Concepts:</h2>
+<p style="border: 1px solid black">
+  <h1> Learn </h1>
+  <h2>🧾 Software Development Concepts:</h2>
+  <h2>📖 Network Development Concepts:</h2>
+</p>
 
 <h1> Practice <h1/>
   <h2>👨‍💻 Software Development Projects:</h2>
