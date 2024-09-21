@@ -1,4 +1,4 @@
-<h1 align="center">Booting up and ready to roll<br>Take a look at what I'm working on</h1>
+<h1 align="center">Booting up and ready to roll<br>take a look at what I'm working on</h1>
 
 
 <!--
@@ -13,16 +13,40 @@
     <th>These are my projects</th>
   </tr>
   <tr>
-    <td>Basic Concepts</td>
-    <td>Simple Task</td>
-  </tr>
-  <tr>
-    <td>Advanced Concepts</td>
-    <td>Challenge</td>
-  </tr>
-  <tr>
-    <td>Examples</td>
-    <td>Problem Set</td>
+    <td>
+      <ul>
+        <h2>Network Engineering</h2>
+        <li>Cisco Certified Network Administrator (CCNA)</li>
+        <li>Checkpoint Certified Security Administrator (CCSA)</li>
+      </ul>
+      <ul>
+        <h2>Software Engineering</h2>
+        <li>Data Structures</li>
+        <li>Algorithms</li>
+        <li>Design Patterns</li>
+        <li>Security Practices</li>
+        <li>Agile and Scrum Methodologies</li>
+        <li>Cloud Computing and DevOps</li>
+        <li>Software Architecture</li>
+        <li>Object-Oriented Programming (OOP)</li>
+        </ul>
+    </td>
+    <td>
+      <ul>
+        <h2>Network Engineering</h2>
+        <li>EVE-NG Setup</li>
+        <li>Task 3</li>
+        <h2>Software Engineering</h2>
+        <li>Data Structures</li>
+        <li>Algorithms</li>
+        <li>Design Patterns</li>
+        <li>Security Practices</li>
+        <li>Agile and Scrum Methodologies</li>
+        <li>Cloud Computing and DevOps</li>
+        <li>Software Architecture</li>
+        <li>Object-Oriented Programming (OOP)</li>
+      </ul>
+    </td>
   </tr>
 </table>
 </div>
