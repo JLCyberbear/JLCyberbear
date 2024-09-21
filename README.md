@@ -9,8 +9,8 @@
 <div align="center">
 <table>
   <tr>
-    <th>I'm learning this</th>
-    <th>These are my projects</th>
+    <th>🏫I'm learning this</th>
+    <th>These are my projects👨🏻‍🏭</th>
   </tr>
   <tr>
     <td>
@@ -51,24 +51,27 @@
 </table>
 </div>
 
+<!--
 <p style="border: 1px solid green">
   <h1> Learn </h1>
   <h2>🧾 Software Development Concepts:</h2>
   <h2>📖 Network Development Concepts:</h2>
-</p>
-
+</p>-->
+<!--
 <h1> Practice <h1/>
   <h2>👨‍💻 Software Development Projects:</h2>
   - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Algorithm Concepts](https://github.com/JLCyberbear/Algorithms-Concepts)
-
+-->
+<!--
 <h2>🕸️ Network Development Projects:</h2>
 <ul>
   <li>Cisco Certified Network Administrator</li>
   <li>Checkpoint Certified Security Administrator</li>
 </ul>
-
+<!--
 <h2> 🤳 Connect with me:</h2>
+-->
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" />][linkedin]
