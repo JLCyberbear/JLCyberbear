@@ -1,6 +1,7 @@
-<h1>Hi, I'm Jose! <br/><a href="https://github.com/JLCyberbear">Programmer</a>, 
+<h1>Hi, I'm Jose! </h1>
+  <br/><a href="https://github.com/JLCyberbear">Programmer</a>, 
   <a href="https://www.linkedin.com/in/joselrico/">Cybersecurity Professional</a>, 
-  <a href="https://www.youtube.com/@JRCybertek">YouTuber</a></h1>
+  <a href="https://www.youtube.com/@JRCybertek">YouTuber</a>
 
 <p style="border: 1px solid green">
   <h1> Learn </h1>
@@ -25,10 +26,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/15707/15707776.png" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/josmadakor
+[youtube]: https://www.youtube.com/c/josmadakor
+[instagram]: https://www.instagram.com/joshmdakor/
+[linkedin]: https://linkedin.com/in/joshmaakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
