@@ -1,7 +1,31 @@
-<h1>Hi, I'm Jose! </h1>
+<h1 align="center">Booting up and ready to roll<br>Take a look at what I'm working on</h1>
+
+
+<!--
   <br/><a href="https://github.com/JLCyberbear">Programmer</a>, 
   <a href="https://www.linkedin.com/in/joselrico/">Cybersecurity Professional</a>, 
   <a href="https://www.youtube.com/@JRCybertek">YouTuber</a>
+-->
+<div align="center">
+<table>
+  <tr>
+    <th>I'm learning this</th>
+    <th>These are my projects</th>
+  </tr>
+  <tr>
+    <td>Basic Concepts</td>
+    <td>Simple Task</td>
+  </tr>
+  <tr>
+    <td>Advanced Concepts</td>
+    <td>Challenge</td>
+  </tr>
+  <tr>
+    <td>Examples</td>
+    <td>Problem Set</td>
+  </tr>
+</table>
+</div>
 
 <p style="border: 1px solid green">
   <h1> Learn </h1>
@@ -31,17 +55,4 @@
 [instagram]: https://www.instagram.com/joshmdakor/
 [linkedin]: https://linkedin.com/in/joshmaakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
