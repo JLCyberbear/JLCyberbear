@@ -1,11 +1,5 @@
 <h1 align="center">Booting up and ready to roll<br>take a look at what I'm working on</h1>
 
-
-<!--
-  <br/><a href="https://github.com/JLCyberbear">Programmer</a>, 
-  <a href="https://www.linkedin.com/in/joselrico/">Cybersecurity Professional</a>, 
-  <a href="https://www.youtube.com/@JRCybertek">YouTuber</a>
--->
 <div align="center">
 <table>
   <tr>
@@ -51,6 +45,20 @@
 </table>
 </div>
 
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>Documentations</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <ul style="list-style-type:none;">
+        <a href="https://github.com/JLCyberbear/JLCyberbear/wiki/Documentation:-eve%E2%80%90ng" target="_blank">Complete Guide to Setting Up EVE-NG on Windows 10 Pro with VMware Workstation 17 for Network Simulation</a>
+      </ul>
+    </td>
+  </tr>
+</table>
 <!--
 <p style="border: 1px solid green">
   <h1> Learn </h1>
@@ -69,10 +77,10 @@
   <li>Cisco Certified Network Administrator</li>
   <li>Checkpoint Certified Security Administrator</li>
 </ul>
-<!--
-<h2> 🤳 Connect with me:</h2>
 -->
 
+<!--
+<h2 align="center"> 🤳 Connect with me:</h2>
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/15707/15707776.png" />][instagram]
@@ -81,5 +89,5 @@
 [youtube]: https://www.youtube.com/c/josmadakor
 [instagram]: https://www.instagram.com/joshmdakor/
 [linkedin]: https://linkedin.com/in/joshmaakor
-
+-->
 
