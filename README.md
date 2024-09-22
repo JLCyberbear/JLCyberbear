@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th>🏫Reading Concepts</th>
-    <th>Pprojects👨🏻‍🏭</th>
+    <th>Projects👨🏻‍🏭</th>
   </tr>
   <tr>
     <td>
