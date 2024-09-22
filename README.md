@@ -3,8 +3,8 @@
 <div align="center">
 <table>
   <tr>
-    <th>🏫I'm learning this</th>
-    <th>These are my projects👨🏻‍🏭</th>
+    <th>🏫Reading Concepts</th>
+    <th>Pprojects👨🏻‍🏭</th>
   </tr>
   <tr>
     <td>
@@ -15,6 +15,7 @@
       </ul>
       <ul>
         <h2>Software Engineering</h2>
+        <li>Programming Language Generations</li>
         <li>Data Structures</li>
         <li>Algorithms</li>
         <li>Design Patterns</li>
